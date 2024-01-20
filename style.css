@@ -1,0 +1,123 @@
+
+.Main-Container{
+    background: #000000;
+
+    font-family: 'Inter', sans-serif;
+    width: 1050px;
+    height: 1000px;
+    margin-left: 15%;
+
+
+}
+
+
+.form-container{
+    display: flex;
+    justify-content: center;
+  justify-content: space-evenly;
+ 
+  
+}
+input{
+
+  margin-top: 20px;
+    width: 150%;
+    height: 25px;
+    border-style: solid;
+    border-width: 1px #ffff;
+    background: rgba(0, 0, 0, 1);
+
+    color: #FFFFFF;
+}
+
+
+
+lable{
+    display: inline-block;
+  
+color: #FFFFFF;
+margin-top: 100px;
+
+}
+.list{
+  width: 50%;
+  height: 23px; 
+  border-width: thin;
+  border-style:solid ;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-bottom: 10px;
+   display: flex;
+    justify-content: space-around;
+    padding: 4px;
+    color: #FFFFFF;
+
+
+}
+.addUser-info{
+  margin-left: 90px;
+  margin-top: 20px;
+  color: #FFFFFF;
+
+}
+#submit{
+    margin-left: 150px;
+    width: 162px;
+    height: 30px;
+    margin-top: 31px;
+    background: #FFFFFF;
+ 
+}
+.addedEmployee{
+    
+
+font-size: 20px;
+font-weight: 300;
+line-height: 25px;
+width: 205px;
+height: 29px;
+margin-left: 40px;
+margin-top: 10px;
+color: #FFFFFF;
+
+
+}
+.errorrRed{
+   
+font-size: 20px;
+font-weight: 300;
+line-height: 25px;
+
+text-align: left;
+color: #FF4343;
+
+
+}
+.errorGreen{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 300;
+line-height: 25px;
+
+
+color: #43FF78;
+
+
+}
+.employeeList{
+    
+
+ margin-left: 2%;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+color: #FFFFFF;
+
+
+
+}
+
+ol{
+    margin-left: -45px;
+    color:rgba(255, 255, 255, 0.5);
+}
